@@ -66,13 +66,6 @@ philosophy: "Automate everything. Break nothing. Learn always."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelrahman-ellithy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-ellithy&layout=compact&theme=tokyonight&border_radius=12&cache_seconds=1800"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=abdelrahman-ellithy&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D&cache_seconds=1800" />
 
 </div>

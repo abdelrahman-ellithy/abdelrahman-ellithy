@@ -15,7 +15,14 @@
   </a>
   <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Cloud-7928ca?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Egypt-00f7ff?style=flat-square&logo=google-maps&logoColor=white" />
-</p>
+  <a class="portfolio-link" href="https://portfolio-abdelrahman-ellithy.vercel.app/" target="_blank">
+    <img
+      class="portfolio-image"
+      src="your-image-url.png"
+      alt="Portfolio Preview"
+    />
+  </a>
+  </p>
 </div>
 
 ---
